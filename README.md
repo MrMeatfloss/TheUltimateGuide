@@ -1,5 +1,5 @@
-# What is this?
-This website is the ultimate guide for newcomers who have developed an interest in saxophones.
+# Introduction
+Welcome! This website is the ultimate guide for newcomers who have developed an interest in saxophones and are now getting started in playing. Follow this ultimate guide to learn which type of saxophone suits YOU the best.
 
 
 Saxophones
