@@ -3,7 +3,7 @@ Welcome! This website is the ultimate guide for newcomers who have developed an 
 
 
 # Why the Saxophone?
-Saxophones require very little extra gear in order to start playing. The only equipment necessary is a reed, and a neckstrape (usually provided alongside other maintenance/cleaning tools). The saxophone is also fairly easy to learn with simple buttons, where the placement of where you put your fingers don't really matter as much unlike an instrument like violin. When you press a button, it will react, and it will change it's sound.
+Saxophones require very little extra gear in order to start playing. The only equipment necessary is a reed, and a neckstrape (usually provided alongside other maintenance/cleaning tools). The saxophone is also fairly easy to learn with simple buttons, where the movement of your fingers don't really matter as much in terms of the sound that the instrument produces. Unlike playing a guitar or drums, it doesn't matter how light or how hard you press down a button, the sound will sound the same, meaning the sound of a saxophone comes from the mouth.
 
 
 Soprano Sax
