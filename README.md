@@ -9,13 +9,13 @@ Saxophones require very little extra gear in order to start playing. The only eq
 Although there were originally 14 different types of saxophones, only 5 of them are in widespread use
 Soprano Sax
 
-Alto Sax
+   -Alto Sax
 
-Tenor Sax
+   -Tenor Sax
 
-Baritone Sax
+   -Baritone Sax
 
-Bass Sax
+   -Bass Sax
 
 ![download](https://user-images.githubusercontent.com/96707128/159603544-85c3930a-7a5c-43e2-88e6-e0973cbae5bf.jpg)
 
