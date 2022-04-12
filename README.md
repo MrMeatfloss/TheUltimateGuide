@@ -18,10 +18,12 @@ Although there were originally 14 different types of saxophones, only 5 of them 
 
    -[Bass Saxophone](https://mrmeatfloss.github.io/Bass-Saxophone/)
 
-Hi!
+These 5 will be the main saxophones that this website will be talking about. Click the highlighted part to check out each saxophone!
 
 ![download](https://user-images.githubusercontent.com/96707128/159603544-85c3930a-7a5c-43e2-88e6-e0973cbae5bf.jpg)
 
-[About Me](https://www.markdownguide.org/cheat-sheet/)
-[Popular Questions](https://www.markdownguide.org/cheat-sheet/)
+[About Me](https://mrmeatfloss.github.io/About-Me/)
+[Popular Questions](https://mrmeatfloss.github.io/Popular-Questions/)
 [Saxophones](https://www.markdownguide.org/cheat-sheet/)
+
+We hope you come out of this website knowing something you didn't know before! Thats all! Thanks! :joy:
