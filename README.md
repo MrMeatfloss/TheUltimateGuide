@@ -8,7 +8,7 @@ Saxophones require very little extra gear in order to start playing. The only eq
 # Types of Saxophones
 Although there were originally 14 different types of saxophones, only 5 of them are in widespread use as of today. They are the:
 
-   -[Soprano Saxophone](https://mrmeatfloss.github.io/Soprano-Sax/)                ![download](https://user-images.githubusercontent.com/96707128/159603544-85c3930a-7a5c-43e2-88e6-e0973cbae5bf.jpg)
+   -[Soprano Saxophone](https://mrmeatfloss.github.io/Soprano-Sax/) 
 
    -[Alto Saxophone](https://mrmeatfloss.github.io/Alto-Sax/)
 
