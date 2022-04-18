@@ -16,8 +16,6 @@ Although there were originally 14 different types of saxophones, only 5 of them 
 
    -[Baritone Saxophone](https://mrmeatfloss.github.io/Baritone-Sax/)
 
-   -[Bass Saxophone](https://mrmeatfloss.github.io/Bass-Saxophone/)
-
 This website will focus on these 5 different types of saxophones by providing information to new players the advantages and drawbacks of each different type, as well as the differences between each instrument. Click the highlighted part to check out each saxophone!
 
 # Which one is Best for YOU?
