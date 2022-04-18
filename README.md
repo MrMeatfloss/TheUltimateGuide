@@ -37,6 +37,11 @@ Now lets talk about reed thickness. Reed thickness is seperated by numbers from 
 The reason why 2 is not so popular despite being the easiest to play is because the thinner the reed the brighter the tone as it vibrates more often. This means that less air is needed to play on a 2 and advanced players may find it annoying. The higher the number, the thicker the reed, and the harder it is to play, but it also brings a deeper and warmer sound with potentially more emotions brought to the table. With a higher ceiling for players, pros tend to always use thicker reeds.
 
 # Cleaning and Maintainence
+Cleaning your saxophone after playing is very important to make sure that your mouth piece stay clean and not contaminated. After playing, take the reed off from the mouth piece and wash the mouth piece with soup and water. Washing the reed can help but be careful to not damage it as it is very fragile, so just use water and rinse it a bit. 
+
+After playing, the horn and tube of the saxophone will be wet so it is important to use a cleaning swab to clean the inside of the saxophone. Insert the cleaning swab and pull it through the tube of the saxophone
+
+![v4-460px-Clean-a-Saxophone-Step-1-Version-3 jpg](https://user-images.githubusercontent.com/96707128/163856082-88ccd088-6376-4a6d-be07-f9b9484cb50d.jpg)
 
 [About Me](https://mrmeatfloss.github.io/About-Me/)
 [Popular Questions](https://mrmeatfloss.github.io/Popular-Questions/)
