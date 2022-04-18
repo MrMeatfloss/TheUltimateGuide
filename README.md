@@ -28,13 +28,15 @@ Now that you've decided on what saxophone suits you the best, lets talk about wh
 
 -Reeds: When it comes to reeds, it is very important to note that reeds must always be in clean and top condition. Even if the reed has a very tiny part where it's a bit chipped out, you should probably get a new one. 
 
-![download (5)](https://user-images.githubusercontent.com/96707128/163891253-17131cc1-57ba-443e-86a7-936ce1f307aa.jpg) Broken reed
+![download (5)](https://user-images.githubusercontent.com/96707128/163891253-17131cc1-57ba-443e-86a7-936ce1f307aa.jpg) Broken reed on the left.
 
 Although a pro can make any setup sound good, beginners should always try and make sure that their reeds are in top condition. Beginners should let the reed guide them as they figure out how to play the saxophone. After you slowly get better and figure out your playstyle, reeds become a lot less reliant and you can then create your own sound.
 
 ![download (4)](https://user-images.githubusercontent.com/96707128/163856700-43ecc9e0-a01d-435a-a7f4-2bab8b2ebeb5.jpg)
 
 Now lets talk about reed thickness. Reed thickness is seperated by numbers from ranges 2-5. The lower the number, the thinner the reed, and the opposite goes for the bigger numbers. Usually, new players should always start from 2 or 2.5 because the thinner the reed, the easier it is to make sound on your saxophone. There were many times where I would see students struggling to make sound with their saxophone and that is because their reed is too thick at 3+. Start from 2, and slowly work your way up.
+
+![rico-altsaxofoon-rieten-orange_8](https://user-images.githubusercontent.com/96707128/163891578-853390a0-04f9-4646-b202-5da0966dc8d6.jpg) Example of a 2.5 read. 
 
 The reason why 2 is not so popular despite being the easiest to play is because the thinner the reed the brighter the tone as it vibrates more often. This means that less air is needed to play on a 2 and advanced players may find it annoying. The higher the number, the thicker the reed, and the harder it is to play, but it also brings a deeper and warmer sound with potentially more emotions brought to the table. With a higher ceiling for players, pros tend to always use thicker reeds.
 
