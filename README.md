@@ -39,6 +39,8 @@ The reason why 2 is not so popular despite being the easiest to play is because 
 # Cleaning and Maintainence
 Cleaning your saxophone after playing is very important to make sure that your mouth piece stay clean and not contaminated. After playing, take the reed off from the mouth piece and wash the mouth piece with soup and water. Washing the reed can help but be careful to not damage it as it is very fragile, so just use water and rinse it a bit. 
 
+![v4-460px-Clean-a-Saxophone-Step-5-Version-3 jpg](https://user-images.githubusercontent.com/96707128/163856410-ddf5b991-1ca9-4e83-9997-58e6389d27e3.jpg)
+
 After playing, the horn and tube of the saxophone will be wet so it is important to use a cleaning swab to clean the inside of the saxophone. Insert the cleaning swab and pull it through the tube of the saxophone
 
 ![v4-460px-Clean-a-Saxophone-Step-1-Version-3 jpg](https://user-images.githubusercontent.com/96707128/163856082-88ccd088-6376-4a6d-be07-f9b9484cb50d.jpg)
