@@ -1,3 +1,7 @@
+[About Me](https://mrmeatfloss.github.io/About-Me/)
+[Popular Questions](https://mrmeatfloss.github.io/Popular-Questions/)
+
+
 # Introduction
 Welcome! This website is the ultimate guide for newcomers who have developed an interest in saxophones and are now getting started in playing the best instrument ever produced. Follow this ultimate guide to learn which type of saxophone suits YOU the best.
 
@@ -48,9 +52,5 @@ Cleaning your saxophone after playing is very important to make sure that your m
 After playing, the horn and tube of the saxophone will be wet so it is important to use a cleaning swab to clean the inside of the saxophone. Insert the cleaning swab and pull it through the tube of the saxophone
 
 ![v4-460px-Clean-a-Saxophone-Step-1-Version-3 jpg](https://user-images.githubusercontent.com/96707128/163856082-88ccd088-6376-4a6d-be07-f9b9484cb50d.jpg)
-
-[About Me](https://mrmeatfloss.github.io/About-Me/)
-[Popular Questions](https://mrmeatfloss.github.io/Popular-Questions/)
-[Saxophones](https://www.markdownguide.org/cheat-sheet/)
 
 We hope you come out of this website knowing something you didn't know before! Thats all! Thanks! :joy:
