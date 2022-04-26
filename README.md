@@ -12,7 +12,7 @@ Welcome! This website is the ultimate guide for newcomers who have developed an 
 Saxophones require very little extra gear in order to start playing. The only equipment necessary is a reed, and a neckstrape (usually provided alongside other maintenance/cleaning tools). The saxophone is also fairly easy to learn with simple buttons, where the movement of your fingers don't really matter as much in terms of the sound that the instrument produces. Unlike playing a guitar or drums, it doesn't matter how light or how hard you press down a button, the sound will sound the same, meaning the sound of a saxophone comes from the mouth.
 
 # Types of Saxophones
-Although there were originally 14 different types of saxophones, only 5 of them are in widespread use as of today. They are the:
+Although there were originally 14 different types of saxophones, only 4 of them are in widespread use as of today. They are the:
 
    -[Soprano Saxophone](https://mrmeatfloss.github.io/Soprano-Sax/) 
 
@@ -22,7 +22,7 @@ Although there were originally 14 different types of saxophones, only 5 of them 
 
    -[Baritone Saxophone](https://mrmeatfloss.github.io/Baritone-Sax/)
 
-This website will focus on these 5 different types of saxophones by providing information to new players the advantages and drawbacks of each different type, as well as the differences between each instrument. Click the highlighted part to check out each saxophone!
+This website will focus on these 4 different types of saxophones by providing information to new players the advantages and drawbacks of each different type, as well as the differences between each instrument. Click the highlighted part to check out each saxophone!
 
 
 # Equipment
