@@ -27,7 +27,9 @@ Now that you've decided on what saxophone suits you the best, lets talk about wh
 
 -Reeds: When it comes to reeds, it is very important to note that reeds must always be in clean and top condition. Even if the reed has a very tiny part where it's a bit chipped out, you should probably get a new one. 
 
-![download (5)](https://user-images.githubusercontent.com/96707128/163891253-17131cc1-57ba-443e-86a7-936ce1f307aa.jpg) Broken reed on the left. ![download (4)](https://user-images.githubusercontent.com/96707128/163856700-43ecc9e0-a01d-435a-a7f4-2bab8b2ebeb5.jpg)
+![download (5)](https://user-images.githubusercontent.com/96707128/163891253-17131cc1-57ba-443e-86a7-936ce1f307aa.jpg) ![download (4)](https://user-images.githubusercontent.com/96707128/163856700-43ecc9e0-a01d-435a-a7f4-2bab8b2ebeb5.jpg)
+
+Broken reed on the left. 
 
 Although a pro can make any setup sound good, beginners should always try and make sure that their reeds are in top condition. Beginners should let the reed guide them as they figure out how to play the saxophone. After you slowly get better and figure out your playstyle, reeds become a lot less reliant and you can then create your own sound.
 
